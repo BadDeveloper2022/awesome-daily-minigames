@@ -632,6 +632,13 @@
   platform: web
   description: A fresh nonogram every day, where the numbers along the edges reveal a picture.
 
+- name: Ink Side Down
+  url: https://arkai.win/games/ink-side-down/
+  category: logic
+  platform: web
+  description: Roll a cube across a grid; the side that's inked prints the square it lands face-down on, and ink may only touch the marked squares.
+  tags: [open-source]
+
 - name: One Step Late
   url: https://arkai.win/games/one-step-late/
   category: logic
