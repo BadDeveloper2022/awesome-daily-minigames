@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 249,
+    "games": 250,
     "categories": 18,
     "reddit": 20
   },
@@ -1022,6 +1022,17 @@
       "platform": "web",
       "description": "Rotate irregular pieces until they tile the board exactly.",
       "tags": []
+    },
+    {
+      "id": "ink-side-down",
+      "name": "Ink Side Down",
+      "url": "https://arkai.win/games/ink-side-down/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Roll a cube across a grid; the side that's inked prints the square it lands face-down on, and ink may only touch the marked squares.",
+      "tags": [
+        "open-source"
+      ]
     },
     {
       "id": "murdle",

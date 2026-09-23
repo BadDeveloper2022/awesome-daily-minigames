@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **249 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **250 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -170,6 +170,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Domino Fit](https://dominofit.isotropic.us/) - Pack dominoes into an awkward grid so that the numbers line up correctly.
 - [Figure](https://figure.game/) - Clear a colour grid in a fixed number of moves by chaining matching tiles.
 - [Flipart](https://www.puzzmo.com/play/flip-art) - Rotate irregular pieces until they tile the board exactly.
+- [Ink Side Down](https://arkai.win/games/ink-side-down/) - Roll a cube across a grid; the side that's inked prints the square it lands face-down on, and ink may only touch the marked squares.
 - [Murdle](https://murdle.com/) - A daily murder mystery solved with a logic grid — suspect, weapon, location, motive.
 - 🟠 [Ninigrams](https://www.reddit.com/r/ninigrams/) - Nonograms sized for a phone screen and playable without leaving Reddit.
 - [NonoDaily](https://www.nonodaily.com/) - A fresh nonogram every day, where the numbers along the edges reveal a picture.
