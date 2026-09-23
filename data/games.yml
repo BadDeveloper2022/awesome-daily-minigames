@@ -571,6 +571,13 @@
   platform: reddit
   description: Binairo-style number logic — fill the grid with two symbols under balance and adjacency rules.
 
+- name: Blind Corners
+  url: https://arkai.win/games/blind-corners/
+  category: logic
+  platform: web
+  description: Fire a beam of light into a hidden grid of mirrors and mark where they must be, judged only by where each beam comes back out.
+  tags: [open-source]
+
 - name: Blokkit
   url: https://www.reddit.com/r/Blokkit/
   category: logic
@@ -638,13 +645,6 @@
   category: logic
   platform: web
   description: A fresh nonogram every day, where the numbers along the edges reveal a picture.
-
-- name: Blind Corners
-  url: https://arkai.win/games/blind-corners/
-  category: logic
-  platform: web
-  description: Fire a beam of light into a hidden grid of mirrors and mark where they must be, judged only by where each beam comes back out.
-  tags: [open-source]
 
 - name: One Step Late
   url: https://arkai.win/games/one-step-late/

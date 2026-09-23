@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 250,
+    "games": 251,
     "categories": 18,
     "reddit": 20
   },
@@ -957,6 +957,17 @@
       "platform": "reddit",
       "description": "Binairo-style number logic — fill the grid with two symbols under balance and adjacency rules.",
       "tags": []
+    },
+    {
+      "id": "blind-corners",
+      "name": "Blind Corners",
+      "url": "https://arkai.win/games/blind-corners/",
+      "category": "logic",
+      "platform": "web",
+      "description": "Fire a beam of light into a hidden grid of mirrors and mark where they must be, judged only by where each beam comes back out.",
+      "tags": [
+        "open-source"
+      ]
     },
     {
       "id": "blokkit",

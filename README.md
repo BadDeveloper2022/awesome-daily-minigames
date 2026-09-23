@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **250 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **251 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -163,6 +163,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Pips](https://www.nytimes.com/games/pips) - Place dominoes so every marked region satisfies its sum, equality or inequality rule.
 - [Balance Grid](https://playbalancegrid.com/daily/) - Fill a daily 6x6 grid with three Light and three Dark cells per line, no triples and no duplicate lines; each puzzle has exactly one solution.
 - 🟠 [Binarygrid](https://www.reddit.com/r/Binarygrid/) - Binairo-style number logic — fill the grid with two symbols under balance and adjacency rules.
+- [Blind Corners](https://arkai.win/games/blind-corners/) - Fire a beam of light into a hidden grid of mirrors and mark where they must be, judged only by where each beam comes back out.
 - 🟠 [Blokkit](https://www.reddit.com/r/Blokkit/) - Grab, rotate and place the day's block set so everything fits with nothing left over.
 - [BrainBashers Daily Puzzle](https://www.brainbashers.com/dailypuzzle.asp) - A long-running rotation of Slitherlink, Hitori, Futoshiki and a dozen other pencil puzzles.
 - [Clues by Sam](https://cluesbysam.com/) - A daily deduction grid where each clue eliminates suspects, houses or objects.
